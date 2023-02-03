@@ -1,0 +1,18 @@
+.container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  line-height: 150%;
+}
+h1,
+h2,
+h4 {
+  text-align: left;
+}
+a {
+  color: black;
+  margin: 10px;
+}
+ol li {
+  margin-bottom: 30px;
+}
